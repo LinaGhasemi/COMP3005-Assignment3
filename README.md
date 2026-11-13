@@ -59,4 +59,4 @@ The application implements the following four functions:
 
 ## Demonstration Video
 
-Video link: [To be added after recording]
+Video link: https://youtu.be/62C9SVjU4-8
