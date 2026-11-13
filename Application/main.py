@@ -1,4 +1,3 @@
-
 import os
 import psycopg
 
@@ -94,24 +93,6 @@ def deleteStudent(student_id):
         print("\nStudent deleted successfully!\n")
     else:
         print("\nNo student found with that ID.\n")
-
-
-
-
-
-# Test the connection to PostgreSQL
-#def main():
-#    try:
-#        with connect_db() as connection:
-#            print("Connected to PostgreSQL successfully!")
-
-#    except Exception as error:
-#        print("Database connection failed:")
-#        print(error)
-
-
-
-
 
 
 # Display a menu to perform student database operations
